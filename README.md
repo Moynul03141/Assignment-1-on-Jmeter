@@ -7,25 +7,27 @@ In this project I have done load testing for the site: https://random-data-api.c
 ![image](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/de9abeeb-603a-4acf-92a4-e4c614dbc075)
 
 ## Output:
+![LT_1](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/ad3c71fb-8e3b-42ce-989b-f7a68df65c1a)
+![LT_2](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/26b375e3-bed4-41cd-8845-46b42f181036)
+![LT_3](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/8f8f54c6-6c15-4203-b8f5-b053c94d6570)
+![LT_4](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/a444a4aa-39bc-47ba-aea1-2266934f91fc)
 
 
 
-## Prerequisites:
-1. install nodejs
+## Stress Test
+I have also done strees testing for the same site. 
 
-## How to run
-1. Clone this project
-2. Give following commands
-   
-   1. ``` npm i ```
-   2. ``` npm start ```
+## Intput:
+![image](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/d9f69863-12e9-4c83-9fbd-66e7da93aa97)
 
 ## Output:
-![Newman Report](https://github.com/Moynul03141/Assignment-on-Postman/assets/81030756/7008d3c4-f36b-46dd-819e-b385c7b17c57)
+![ST_1](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/8d50a311-9cb6-46af-836e-8c239f1c35e5)
+![ST_2](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/b49b03f1-7350-4e71-9127-9d3f5b7f1e44)
+![ST_3](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/391f90c8-a235-40b1-93fb-4aec7c310c89)
+![ST_4](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/485a3ecd-4b4e-43fe-81a0-4f838688244a)
 
 
-## API Documentation:
-https://documenter.getpostman.com/view/32547093/2s9YyvCM8A
 
-## Test cases:
-https://docs.google.com/spreadsheets/d/1zhD3CINlEeBMVrlG8Va1BxFJqyx7luazXZTa8LhRCBU/edit?usp=sharing
+## Documentation:
+https://docs.google.com/spreadsheets/d/1taRGJSjhJ8XLkm_SpwAAz_KGuICGv3NnHwEt7hnsV_0/edit#gid=0
+
