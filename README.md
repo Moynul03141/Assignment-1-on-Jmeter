@@ -15,7 +15,7 @@ In this project I have done load testing for the site: https://random-data-api.c
 
 
 ## Stress Test
-I have also done strees testing for the same site. 
+I have also done stress testing for the same site. 
 
 ## Intput:
 ![image](https://github.com/Moynul03141/Assignment-1-on-Jmeter/assets/81030756/d9f69863-12e9-4c83-9fbd-66e7da93aa97)
